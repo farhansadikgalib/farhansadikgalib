@@ -1,7 +1,5 @@
 Hi there 👋, I am Farhan Sadik Galib 👨‍💻
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/farhansadikgalib?tab=repositories)
-
 
 <!--
 **farhansadikgalib/farhansadikgalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
