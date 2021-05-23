@@ -4,6 +4,8 @@ Hi there 👋, I am Farhan Sadik Galib 👨‍💻
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<farhansadikgalib>&theme=<radical>" />
 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+
 
 
 
