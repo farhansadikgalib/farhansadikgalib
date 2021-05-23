@@ -18,7 +18,7 @@
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/farhansadikgalib)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/e3ePvAa3)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/farhansadikgalib)
+  [![Visits](https://komarev.com/ghpvc/?username=farhansadikgalib&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/farhansadikgalib)
 </p>
   </td>
   </table>
@@ -36,12 +36,11 @@
 
 <!-- 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadikgalib&show_icons=true&locale=en" alt="farhansadikgalib" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhansadikgalib&" alt="farhansadikgalib" /></p> -->
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansadikgalib&show_icons=true&locale=en&layout=compact" alt="farhansadikgalib" /></p>
+<!-- <p align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farhansadikgalib&show_icons=true&locale=en" alt="farhansadikgalib" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansadikgalib&show_icons=true&locale=en&layout=compact" alt="farhansadikgalib" /></p>
 
-
+ -->
 
 
 <!-- <h3 align="center">Connect with me:</h3>
