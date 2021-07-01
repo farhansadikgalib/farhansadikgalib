@@ -26,7 +26,7 @@
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
-  <img align="center" alt="GIF" src="https://github.com/farhansadikgalib/raw/blob/master/Profile/code_with_music.gif" width="825" height="450" />
+  <img align="center" alt="GIF" src="https://github.com/farhansadikgalib/raw/blob/master/Profile/code_with_music.gif" width="835" height="450" />
 
   
 
