@@ -3,8 +3,13 @@
 <p align="right"> <a href="https://twitter.com/farhansadkgalib" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h1 align="center">Hello, folks! I'm Farhan 👨‍💻</h1>
 <h3 align="center">📱 Mobile Application developer 📱</h3>
+
+
+
 <h5 align="center">**What We Know Is a Drop, What We Don't Know Is An ocean !**</h5>
 
+
+    
      
   <table width="100%"> 
   <tr>
@@ -27,11 +32,18 @@
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 
+
+
   <img align="center" alt="GIF" src="https://github.com/farhansadikgalib/raw/blob/master/Profile/code_with_music.gif" width="835" height="450" />
 
 
+<!-- 
 
-
+<h1 align="center">Languages and Tools
+<img align="left" alt=“Flutter” width="50px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“Firebase” width="50px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Dart” width="50px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt=“Github” width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 
 
   
